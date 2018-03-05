@@ -1,0 +1,49 @@
+.tocenter {
+	margin:0 auto;
+	display: inline;
+}
+
+.tituloPI{
+	background-color: #990000;
+	color: #FFFFFF;
+}
+
+.subtituloPI{
+	color: #FFFF00;
+}
+
+.fondoPI{
+	background-color: #1C1C1C;
+	color: #FFFFFF;
+}
+
+.primeraPI{
+	background-color: #fff59d;
+}
+
+.segundaPI{
+	background-color: #ffb74d;
+}
+
+.textoGrande{
+	font-size: 2em;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header
+{ 
+    background-image: url("../img/bfondo1.jpg");
+    color: #FFFFFF;        
+    background-size: cover;
+}
+
+footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    padding: 10px;
+}
