@@ -116,7 +116,7 @@
 		<div class="col-md-4"></div>
 		<div class="col-md-4">
 			<div class="row">
-				<form action="calculadora.php" method="POST" class="form-horizontal">
+				<form action="index.php" method="POST" class="form-horizontal">
 					<div class="panel panel-primary class">
 						<div class="panel-heading">Calculadora</div>
 						<div class="panel-body">
